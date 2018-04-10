@@ -1,0 +1,10 @@
+
+
+function c(){
+	
+	
+	alert('c');
+	
+}
+
+
